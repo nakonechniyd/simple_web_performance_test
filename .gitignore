@@ -1,0 +1,5 @@
+.vscode
+
+aiohttp/.venv/
+aiohttp/__pycache__/
+aiohttp/*.py[code]
