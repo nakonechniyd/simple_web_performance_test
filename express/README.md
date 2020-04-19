@@ -1,4 +1,4 @@
-# Simple performance test for express endpoint that generates uuid
+# Simple performance testing for express endpoint that generates uuid
 
 ## Environment:
 
